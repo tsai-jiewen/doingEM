@@ -25,8 +25,8 @@ markdown_extensions:
     - tables
 
 plugins:
-#  - mkdocs-jupyter
-  - mknotebooks
+  - mkdocs-jupyter
+
   
 extra_javascript:
   - javascripts/mathjax.js
