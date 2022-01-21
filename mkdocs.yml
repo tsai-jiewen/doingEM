@@ -1,0 +1,8 @@
+site_name: My Docs 2022
+site_url: https://tsai-jiewen.github.io/readthedocs/
+nav:
+    - Home: index.md
+    - About: 
+      - about: about.md
+      - new: newpage.md
+theme: readthedocs
