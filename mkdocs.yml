@@ -12,7 +12,7 @@ nav:
 # theme: readthedocs
 # mkdocs.yml
 theme:
-  name: material
+  name: readthedocs
 
 markdown_extensions:
     - extra
