@@ -9,7 +9,10 @@ nav:
     - About: 
       - about: about.md
       - new: newpage.md
-theme: readthedocs
+# theme: readthedocs
+# mkdocs.yml
+theme:
+  name: material
 
 markdown_extensions:
     - extra
