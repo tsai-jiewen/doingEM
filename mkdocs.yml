@@ -1,5 +1,6 @@
 site_name: My Docs 2022
 site_url: https://tsai-jiewen.github.io/readthedocs/
+site_author: JW Tsai
 nav:
     - Home: index.md
     - Remind: remind mkdocs.md
@@ -7,6 +8,16 @@ nav:
       - about: about.md
       - new: newpage.md
 theme: readthedocs
+
+markdown_extensions:
+    - extra
+    - smarty
+    - toc:
+        permalink: []
+    - admonition
+    - def_list
+    - footnotes
+    - tables
 
 
 extra_javascript:
