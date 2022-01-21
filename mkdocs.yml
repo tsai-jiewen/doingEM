@@ -26,6 +26,8 @@ markdown_extensions:
 
 plugins:
   - mkdocs-jupyter
+  - search
+  - autolinks
 
   
 extra_javascript:
