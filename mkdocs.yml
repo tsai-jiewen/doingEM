@@ -1,14 +1,15 @@
-site_name: 📙My Docs 2022
-site_url: https://tsai-jiewen.github.io/readthedocs/
+site_name: 📙DoingEM
+site_url: https://tsai-jiewen.github.io/doingEM/
 site_author: JW Tsai
 nav:
-    - Home: index.md
-    - Remind: 
-      - remind: remind mkdocs.md
-      - jupyter: Untitled9 (3).ipynb
-    - About: 
-      - about: about.md
-      - new: newpage.md
+    - Readme: cover.md
+    - About: about.md
+    - Tests: 
+      - MkDocs: index.md
+      - MD syntax: remind mkdocs.md
+      - Jupyter: Untitled9 (3).ipynb
+
+
 # theme: readthedocs
 # mkdocs.yml
 theme:
